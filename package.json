@@ -1,0 +1,16 @@
+{
+  "name": "table2",
+  "version": "1.0.0",
+  "description": "An Oracle JavaScript Extension Toolkit(JET) web app",
+  "dependencies": {
+    "@oracle/oraclejet": "~8.2.0",
+    "ag-grid-community": "^25.0.1"
+  },
+  "devDependencies": {
+    "@oracle/oraclejet-tooling": "~8.2.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "private": true
+}
